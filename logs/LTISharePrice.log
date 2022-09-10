@@ -1,0 +1,7 @@
+[INFO ] 2022-09-10 22:45:43.399 [main] Project - Browser launched and url loaded
+[INFO ] 2022-09-10 22:45:47.311 [main] Project - Switching to frame
+[INFO ] 2022-09-10 22:45:47.349 [main] Project - Handling frame
+[INFO ] 2022-09-10 22:45:47.440 [main] Project - Locating SearchBar and sendKeys
+[INFO ] 2022-09-10 22:45:47.552 [main] Project - selecting the requirement using if block
+[INFO ] 2022-09-10 22:45:50.437 [main] Project - Printing the requirment
+[INFO ] 2022-09-10 22:45:50.464 [main] Project - Close the browser
